@@ -1,0 +1,23 @@
+# Privacy
+PROMPTS.md
+.claude/
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build output
+dist/
+
+# OS files
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+*.code-workspace
+
+# Temp
+*.tmp
+*.log
