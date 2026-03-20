@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/social-preview.png" alt="24 Deterministic Skills for Three.js" width="100%">
+</p>
+
 # Three.js Claude Skill Package
 
 > 24 deterministic skills for Three.js 3D web development with Claude Code.
