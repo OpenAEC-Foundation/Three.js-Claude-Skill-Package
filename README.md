@@ -138,6 +138,18 @@ This package was built using the proven 7-phase research-first methodology:
 - [Blender-Bonsai Skill Package](https://github.com/OpenAEC-Foundation/Blender-Bonsai-ifcOpenshell-Sverchok-Claude-Skill-Package) (73 skills)
 - [Tauri 2 Skill Package](https://github.com/OpenAEC-Foundation/Tauri-2-Claude-Skill-Package) (27 skills)
 
+---
+
+## Companion Skills: Cross-Technology Integration
+
+> **[Cross-Tech AEC Integration Skills](https://github.com/OpenAEC-Foundation/Cross-Tech-AEC-Claude-Skill-Package)** — 15 skills for technology boundaries
+
+| Skill | Boundary | What it adds |
+|-------|----------|-------------|
+| `crosstech-impl-ifc-to-threejs` | IFC ↔ Three.js | Loading IFC into Three.js, @thatopen/components, Fragments format |
+| `crosstech-impl-bim-web-viewer` | BIM ↔ Web browser | End-to-end BIM viewer with Three.js |
+| `crosstech-core-coordinate-systems` | BIM ↔ GIS | Y-up (Three.js) vs Z-up (IFC) axis handling |
+
 ## License
 
 MIT — see [LICENSE](LICENSE) for details.
