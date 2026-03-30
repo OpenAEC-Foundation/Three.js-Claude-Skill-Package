@@ -7,8 +7,7 @@ description: >
   format, missing needsUpdate on uniforms, or not including required
   defines. Covers ShaderMaterial, RawShaderMaterial, GLSL, uniforms,
   ShaderChunk, onBeforeCompile, defines, GLSL3.
-  Keywords: ShaderMaterial, RawShaderMaterial, GLSL, vertex shader,
-  fragment shader, uniform, varying, ShaderChunk, onBeforeCompile, custom shader.
+  Keywords: ShaderMaterial, RawShaderMaterial, GLSL, vertex shader, fragment shader, uniform, varying, ShaderChunk, onBeforeCompile, custom shader, write shader, custom visual effect, GPU programming.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

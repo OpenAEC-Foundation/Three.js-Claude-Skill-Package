@@ -6,8 +6,7 @@ description: >
   common mistake of wrong shadow camera frustum, too many PointLight
   shadows, or missing castShadow/receiveShadow flags. Covers shadow map
   types, per-light config, bias tuning, CameraHelper debugging.
-  Keywords: shadows, shadowMap, shadow acne, peter panning, bias,
-  normalBias, castShadow, receiveShadow, PCFSoftShadowMap, shadow camera.
+  Keywords: shadows, shadowMap, shadow acne, peter panning, bias, normalBias, castShadow, receiveShadow, PCFSoftShadowMap, shadow camera, shadows not showing, shadow artifacts, enable shadows.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

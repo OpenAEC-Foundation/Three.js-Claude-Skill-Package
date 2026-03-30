@@ -6,8 +6,7 @@ description: >
   of setAnimationLoop, not handling controller events, or wrong
   reference space. Covers WebXRManager, VRButton, ARButton, controllers,
   hand tracking, hit testing, teleportation.
-  Keywords: VR, AR, XR, WebXR, VRButton, ARButton, immersive,
-  controller, hand tracking, hit test, teleportation, headset.
+  Keywords: VR, AR, XR, WebXR, VRButton, ARButton, immersive, controller, hand tracking, hit test, teleportation, headset, virtual reality, augmented reality, VR app, AR experience.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

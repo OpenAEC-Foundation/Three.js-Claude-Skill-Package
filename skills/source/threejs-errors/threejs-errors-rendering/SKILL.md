@@ -6,8 +6,7 @@ description: >
   common mistake of wrong color space, missing material.side, or
   forgetting updateProjectionMatrix. Covers all common rendering errors
   with diagnosis steps and fix patterns.
-  Keywords: black screen, invisible, wrong color, z-fighting, shadow
-  artifact, rendering error, debug, nothing visible, dark, broken.
+  Keywords: black screen, invisible, wrong color, z-fighting, shadow artifact, rendering error, debug, nothing visible, dark, broken, nothing shows, model not appearing, screen is blank.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

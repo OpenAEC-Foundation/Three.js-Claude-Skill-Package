@@ -6,8 +6,7 @@ description: >
   R3F's declarative model, creating objects inside useFrame, or
   forgetting Suspense for loaders. Covers Canvas, useFrame, useThree,
   useLoader, JSX mapping, event system, performance patterns.
-  Keywords: React Three Fiber, R3F, Canvas, useFrame, useThree,
-  useLoader, @react-three/fiber, 3D React, declarative Three.js.
+  Keywords: React Three Fiber, R3F, Canvas, useFrame, useThree, useLoader, @react-three/fiber, 3D React, declarative Three.js, use Three.js with React, JSX 3D components.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @react-three/fiber 8.x+, React 18+."
 metadata:

@@ -6,8 +6,7 @@ description: >
   common mistake of mutating shared vectors, using wrong rotation order,
   or confusing Euler gimbal lock. Covers Vector3, Matrix4, Quaternion,
   Euler, Color, MathUtils, Box3, Sphere, coordinate system.
-  Keywords: Vector3, Matrix4, Quaternion, Euler, Color, MathUtils,
-  lerp, slerp, cross, dot, normalize, degToRad, Y-up, right-handed.
+  Keywords: Vector3, Matrix4, Quaternion, Euler, Color, MathUtils, lerp, slerp, cross, dot, normalize, degToRad, Y-up, right-handed, rotate object, position math, smooth interpolation.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

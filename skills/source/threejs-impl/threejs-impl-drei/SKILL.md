@@ -7,8 +7,7 @@ description: >
   useGLTF in Suspense, using wrong Environment preset name, or
   forgetting makeDefault on controls. Covers 150+ Drei components
   across controls, environment, text, materials, loaders, performance.
-  Keywords: Drei, @react-three/drei, OrbitControls, Environment,
-  useGLTF, useTexture, Html, Text, Stage, ContactShadows, Instances.
+  Keywords: Drei, @react-three/drei, OrbitControls, Environment, useGLTF, useTexture, Html, Text, Stage, ContactShadows, Instances, helper components, ready-made, quick setup React 3D.
 license: MIT
 compatibility: "Designed for Claude Code. Requires @react-three/drei, @react-three/fiber 8.x+."
 metadata:

@@ -6,8 +6,7 @@ description: >
   using add() instead of attach() for reparenting, forgetting
   matrixAutoUpdate, or missing dispose() calls. Covers Object3D, Scene,
   Group, Mesh, Layers, Fog, traversal, coordinate conversion.
-  Keywords: scene graph, Object3D, add, remove, traverse, layers, fog,
-  parent, children, visibility, Three.js scene setup.
+  Keywords: scene graph, Object3D, add, remove, traverse, layers, fog, parent, children, visibility, Three.js scene setup, group objects, show hide object, organize scene.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

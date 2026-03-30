@@ -5,8 +5,7 @@ description: >
   compressing meshes, optimizing textures, or generating LOD. Provides
   a complete GLTF optimization pipeline using Draco, KTX2, mesh
   simplification, and gltf-transform.
-  Keywords: optimize model, reduce file size, Draco compression, KTX2,
-  gltf-transform, mesh simplification, LOD, GLTF optimize, bundle size.
+  Keywords: optimize model, reduce file size, Draco compression, KTX2, gltf-transform, mesh simplification, LOD, GLTF optimize, bundle size, model too big, slow loading, compress 3D model.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

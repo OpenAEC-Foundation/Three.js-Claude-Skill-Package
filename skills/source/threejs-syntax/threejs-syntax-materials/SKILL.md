@@ -6,8 +6,7 @@ description: >
   color space on textures, forgetting material.dispose(), or not calling
   material.needsUpdate after changes. Covers all 15+ material types, PBR
   metalness/roughness, MeshPhysicalMaterial, texture maps, color space.
-  Keywords: MeshStandardMaterial, MeshPhysicalMaterial, material, texture,
-  PBR, metalness, roughness, normalMap, color space, SRGBColorSpace.
+  Keywords: MeshStandardMaterial, MeshPhysicalMaterial, material, texture, PBR, metalness, roughness, normalMap, color space, SRGBColorSpace, blurry texture, pixelated, texture quality, filtering.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

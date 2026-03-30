@@ -6,8 +6,7 @@ description: >
   mistake of mixing Three.js EffectComposer with pmndrs/postprocessing,
   wrong pass order, or missing RenderPass. Covers EffectComposer,
   27+ passes, pmndrs/postprocessing, custom ShaderPass.
-  Keywords: post-processing, EffectComposer, bloom, UnrealBloomPass,
-  SSAO, outline, SMAA, FXAA, postprocessing, effects, render pass.
+  Keywords: post-processing, EffectComposer, bloom, UnrealBloomPass, SSAO, outline, SMAA, FXAA, postprocessing, effects, render pass, glow effect, blur, cinematic, visual effects.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

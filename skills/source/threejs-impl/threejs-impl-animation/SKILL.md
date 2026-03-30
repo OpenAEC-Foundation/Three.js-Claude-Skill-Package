@@ -6,8 +6,7 @@ description: >
   common mistake of not calling mixer.update(delta) every frame,
   wrong crossfade setup, or missing Clock. Covers AnimationMixer,
   AnimationClip, AnimationAction, KeyframeTrack, crossfade, blending.
-  Keywords: animation, AnimationMixer, AnimationClip, AnimationAction,
-  crossfade, skeletal, GLTF animation, keyframe, blend, Clock.
+  Keywords: animation, AnimationMixer, AnimationClip, AnimationAction, crossfade, skeletal, GLTF animation, keyframe, blend, Clock, camera animation, smooth camera, fly to, tween, GSAP.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

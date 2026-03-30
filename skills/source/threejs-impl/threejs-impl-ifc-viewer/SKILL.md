@@ -6,8 +6,7 @@ description: >
   ignoring AGPL-3.0 license implications, or loading large IFC files
   without streaming. Covers web-ifc (MIT), @thatopen/components
   (AGPL-3.0), IFC loading, spatial tree, property extraction.
-  Keywords: IFC, BIM, web-ifc, IFC viewer, @thatopen/components,
-  building model, architecture, IFC loading, spatial tree, BIM viewer.
+  Keywords: IFC, BIM, web-ifc, IFC viewer, @thatopen/components, building model, architecture, IFC loading, spatial tree, BIM viewer, show IFC in browser, load building, web BIM viewer.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

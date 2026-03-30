@@ -7,8 +7,7 @@ description: >
   loop, or not using InstancedMesh for repeated objects. Covers disposal
   patterns, draw call optimization, InstancedMesh, LOD, texture compression,
   renderer.info, Stats.js profiling.
-  Keywords: performance, memory leak, dispose, draw calls, FPS, slow,
-  optimization, InstancedMesh, LOD, renderer.info, Stats, profiling.
+  Keywords: performance, memory leak, dispose, draw calls, FPS, slow, optimization, InstancedMesh, LOD, renderer.info, Stats, profiling, laggy, low FPS, stuttering, browser freezes.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

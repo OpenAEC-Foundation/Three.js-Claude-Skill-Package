@@ -6,8 +6,7 @@ description: >
   of forgetting controls.update() in the render loop, not calling
   dispose(), or mixing controls. Covers OrbitControls, MapControls,
   FlyControls, PointerLockControls, TransformControls.
-  Keywords: OrbitControls, controls, camera controls, orbit, pan, zoom,
-  MapControls, FlyControls, PointerLockControls, TransformControls.
+  Keywords: OrbitControls, controls, camera controls, orbit, pan, zoom, MapControls, FlyControls, PointerLockControls, TransformControls, rotate view, move camera, mouse controls, drag to rotate.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

@@ -5,8 +5,7 @@ description: >
   asked to create a 3D visualization. Provides decision trees for
   choosing lighting setup, materials, camera type, controls, and
   post-processing pipeline. Orchestrates other Three.js skills.
-  Keywords: create scene, build 3D, Three.js project, scene setup,
-  visualization, product viewer, 3D application, scene composition.
+  Keywords: create scene, build 3D, Three.js project, scene setup, visualization, product viewer, 3D application, scene composition, how to start Three.js, new 3D project, basic scene.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

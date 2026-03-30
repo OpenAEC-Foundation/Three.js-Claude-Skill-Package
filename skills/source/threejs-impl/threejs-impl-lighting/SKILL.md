@@ -6,8 +6,7 @@ description: >
   of too many shadow-casting lights, wrong intensity units, or missing
   environment maps for PBR. Covers all 7 light types, PMREMGenerator,
   HDR environment maps, physically correct intensity, helpers.
-  Keywords: lighting, AmbientLight, DirectionalLight, PointLight,
-  SpotLight, RectAreaLight, HemisphereLight, environment map, HDR, IBL,
+  Keywords: lighting, AmbientLight, DirectionalLight, PointLight, SpotLight, RectAreaLight, HemisphereLight, environment map, HDR, IBL, scene too dark, add light, realistic lighting.
   PMREMGenerator, scene.environment.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."

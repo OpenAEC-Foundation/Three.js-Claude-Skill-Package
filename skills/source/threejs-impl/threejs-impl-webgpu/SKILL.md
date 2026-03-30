@@ -6,8 +6,7 @@ description: >
   mistake of not checking browser support, missing async init, or using
   GLSL with WebGPU. Covers WebGPURenderer, node materials, TSL,
   compute shaders, WebGL fallback, migration guide.
-  Keywords: WebGPU, WebGPURenderer, TSL, Three Shading Language,
-  node material, compute shader, WGSL, MeshStandardNodeMaterial.
+  Keywords: WebGPU, WebGPURenderer, TSL, Three Shading Language, node material, compute shader, WGSL, MeshStandardNodeMaterial, next-gen rendering, modern GPU, WebGPU setup.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+. WebGPU: Chrome 113+, Safari 18+."
 metadata:

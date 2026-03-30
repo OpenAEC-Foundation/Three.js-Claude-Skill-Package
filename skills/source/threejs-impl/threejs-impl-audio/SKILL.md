@@ -6,8 +6,7 @@ description: >
   of ignoring browser autoplay policy, not attaching AudioListener to
   camera, or wrong distance model. Covers AudioListener, Audio,
   PositionalAudio, AudioAnalyser.
-  Keywords: audio, sound, AudioListener, PositionalAudio, 3D audio,
-  spatial audio, music, AudioAnalyser, Web Audio API.
+  Keywords: audio, sound, AudioListener, PositionalAudio, 3D audio, spatial audio, music, AudioAnalyser, Web Audio API, play sound, add music, sound in 3D scene.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

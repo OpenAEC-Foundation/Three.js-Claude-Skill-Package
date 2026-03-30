@@ -6,8 +6,7 @@ description: >
   spaces. Prevents the common mistake of not capping pixel ratio, using
   wrong color space, or forgetting to enable shadow maps. Covers
   WebGLRenderer, render targets, tone mapping, color management.
-  Keywords: WebGLRenderer, render loop, setSize, setPixelRatio,
-  toneMapping, outputColorSpace, shadowMap, WebGLRenderTarget, dispose,
+  Keywords: WebGLRenderer, render loop, setSize, setPixelRatio, toneMapping, outputColorSpace, shadowMap, WebGLRenderTarget, dispose, resize, responsive, canvas size, window resize, fullscreen.
   setAnimationLoop, compileAsync.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."

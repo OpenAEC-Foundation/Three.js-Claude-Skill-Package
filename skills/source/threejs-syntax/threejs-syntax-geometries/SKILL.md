@@ -6,8 +6,7 @@ description: >
   setting needsUpdate on BufferAttribute, or using non-indexed geometry
   when indexed is better. Covers BufferGeometry, BufferAttribute, all
   21 built-in geometries, InstancedMesh, ExtrudeGeometry, custom geometry.
-  Keywords: BufferGeometry, BoxGeometry, SphereGeometry, PlaneGeometry,
-  InstancedMesh, BufferAttribute, geometry, shape, extrude, custom mesh.
+  Keywords: BufferGeometry, BoxGeometry, SphereGeometry, PlaneGeometry, InstancedMesh, BufferAttribute, geometry, shape, extrude, custom mesh, particles, point cloud, particle system, create shape.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

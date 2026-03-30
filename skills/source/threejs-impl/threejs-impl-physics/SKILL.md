@@ -6,8 +6,7 @@ description: >
   of wrong Vec3/Vector3 conversion, missing world.step(), or choosing
   the wrong engine. Covers cannon-es and Rapier with Three.js sync
   patterns, performance comparison.
-  Keywords: physics, cannon-es, Rapier, rigid body, collider, collision,
-  gravity, simulation, WASM, constraint, joint.
+  Keywords: physics, cannon-es, Rapier, rigid body, collider, collision, gravity, simulation, WASM, constraint, joint, objects fall, collision detection, bouncing, realistic movement.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

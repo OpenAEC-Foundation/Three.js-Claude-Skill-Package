@@ -6,8 +6,7 @@ description: >
   setting up DRACOLoader, wrong WASM path, or missing error handling.
   Covers GLTFLoader, DRACOLoader, KTX2Loader, TextureLoader, RGBELoader,
   FBXLoader, OBJLoader, LoadingManager.
-  Keywords: GLTFLoader, GLTF, GLB, load model, DRACOLoader, texture,
-  FBXLoader, OBJLoader, RGBELoader, HDR, LoadingManager, progress.
+  Keywords: GLTFLoader, GLTF, GLB, load model, DRACOLoader, texture, FBXLoader, OBJLoader, RGBELoader, HDR, LoadingManager, progress, export, GLTFExporter, save model, download 3D, import 3D file.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:

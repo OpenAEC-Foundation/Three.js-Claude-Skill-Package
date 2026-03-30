@@ -6,8 +6,7 @@ description: >
   raycasting every mousemove frame, not using layers for filtering, or
   missing recursive flag. Covers Raycaster, setFromCamera, intersection
   format, InstancedMesh picking, layers, performance.
-  Keywords: Raycaster, mouse picking, intersectObjects, click, hover,
-  setFromCamera, intersection, instanceId, object selection.
+  Keywords: Raycaster, mouse picking, intersectObjects, click, hover, setFromCamera, intersection, instanceId, object selection, click on 3D object, detect mouse over, pick element.
 license: MIT
 compatibility: "Designed for Claude Code. Requires Three.js r160+."
 metadata:
