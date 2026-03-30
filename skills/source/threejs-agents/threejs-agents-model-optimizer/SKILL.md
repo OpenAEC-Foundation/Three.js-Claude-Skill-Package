@@ -193,13 +193,13 @@ Texture type?
 ### KTX2 Compression Commands
 
 ```bash
-# ETC1S — smaller file, lower quality (color maps, ORM)
+# ETC1S: smaller file, lower quality (color maps, ORM)
 npx gltf-transform ktx2 input.glb output.glb \
   --slots "baseColorTexture,emissiveTexture,occlusionTexture" \
   --filter "baseColorTexture=etc1s" \
   --quality 128
 
-# UASTC — larger file, higher quality (normal maps)
+# UASTC: larger file, higher quality (normal maps)
 npx gltf-transform ktx2 input.glb output.glb \
   --slots "normalTexture" \
   --filter "normalTexture=uastc"

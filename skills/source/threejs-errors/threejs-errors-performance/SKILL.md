@@ -46,7 +46,7 @@ Scene is slow / low FPS
 
 ## Quick Reference
 
-### renderer.info — Your First Diagnostic Tool
+### renderer.info: Your First Diagnostic Tool
 
 ```javascript
 import * as THREE from 'three';
@@ -64,7 +64,7 @@ console.log(renderer.info.programs);
 
 **Rule**: If `renderer.info.memory.geometries` or `renderer.info.memory.textures` grows continuously over time, you have a memory leak. ALWAYS monitor these values during development.
 
-### Stats.js — FPS and Memory Monitoring
+### Stats.js: FPS and Memory Monitoring
 
 ```javascript
 import Stats from 'three/addons/libs/stats.module.js';
@@ -93,7 +93,7 @@ function animate() {
 
 ---
 
-## Memory Management — Disposal Rules
+## Memory Management: Disposal Rules
 
 ### What MUST Be Disposed
 
@@ -164,7 +164,7 @@ function disposeScene(scene) {
 
 ## Draw Call Optimization
 
-### InstancedMesh — Render Thousands in One Call
+### InstancedMesh: Render Thousands in One Call
 
 ALWAYS use `InstancedMesh` when rendering more than ~100 copies of the same geometry+material combination.
 
@@ -196,11 +196,11 @@ scene.add(mesh);
 | 100-10,000 | ALWAYS use `InstancedMesh` |
 | > 10,000 | `InstancedMesh` with spatial subdivision or `BatchedMesh` (r160+) |
 
-### BatchedMesh (r160+) — Multiple Geometries in One Call
+### BatchedMesh (r160+): Multiple Geometries in One Call
 
 `BatchedMesh` extends instancing to support different geometries and materials in a single draw call. Use for heterogeneous repeated objects.
 
-### Geometry Merging — Static Objects
+### Geometry Merging: Static Objects
 
 For static objects that NEVER move independently, merge them into a single geometry:
 

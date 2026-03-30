@@ -24,7 +24,7 @@ This skill is an **orchestration guide** for building complete Three.js scenes. 
 
 ## Master Decision Tree: Use Case to Scene Recipe
 
-### Step 1 — Identify the Use Case
+### Step 1: Identify the Use Case
 
 | Use Case | Go To |
 |----------|-------|
@@ -36,7 +36,7 @@ This skill is an **orchestration guide** for building complete Three.js scenes. 
 | CAD / BIM / IFC viewer | Recipe F |
 | AR / XR experience | Recipe G |
 
-### Step 2 — Choose R3F vs Imperative
+### Step 2: Choose R3F vs Imperative
 
 | Condition | Decision |
 |-----------|----------|
@@ -52,7 +52,7 @@ This skill is an **orchestration guide** for building complete Three.js scenes. 
 
 ## Decision Tree: Lighting Setup
 
-### Step 1 — Scene Type to Lighting Strategy
+### Step 1: Scene Type to Lighting Strategy
 
 | Scene Type | Primary Light | Fill Light | Shadows |
 |------------|--------------|------------|---------|
@@ -63,7 +63,7 @@ This skill is an **orchestration guide** for building complete Three.js scenes. 
 | HDR environment only | None (IBL provides all lighting) | None | ContactShadows or AccumulativeShadows |
 | Night / dark | SpotLight (focused pools) | AmbientLight (very low, ~0.05) | SpotLight shadows |
 
-### Step 2 — Lighting Intensity (Physically Correct, r160+)
+### Step 2: Lighting Intensity (Physically Correct, r160+)
 
 | Light Type | Unit | Typical Indoor | Typical Outdoor |
 |------------|------|---------------|-----------------|
@@ -73,7 +73,7 @@ This skill is an **orchestration guide** for building complete Three.js scenes. 
 | AmbientLight | unitless | 0.1-0.5 | 0.2-0.5 |
 | HemisphereLight | unitless | 0.3-0.8 | 0.5-1.0 |
 
-### Step 3 — Light Count Budget
+### Step 3: Light Count Budget
 
 | Platform | Max Real-Time Lights | Max Shadow-Casting Lights |
 |----------|---------------------|--------------------------|

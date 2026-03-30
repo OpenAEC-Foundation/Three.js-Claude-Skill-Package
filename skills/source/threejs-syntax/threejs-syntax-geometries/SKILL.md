@@ -19,7 +19,7 @@ metadata:
 
 ## Quick Reference
 
-### BufferGeometry — Core Properties
+### BufferGeometry: Core Properties
 
 | Property | Type | Default | Description |
 |----------|------|---------|-------------|
@@ -32,7 +32,7 @@ metadata:
 | `boundingBox` | `Box3 \| null` | `null` | Cached — `null` until `computeBoundingBox()` |
 | `boundingSphere` | `Sphere \| null` | `null` | Cached — `null` until `computeBoundingSphere()` |
 
-### BufferGeometry — Key Methods
+### BufferGeometry: Key Methods
 
 | Method | Returns | Description |
 |--------|---------|-------------|
@@ -55,7 +55,7 @@ metadata:
 | `center()` | `this` | Center geometry at the origin |
 | `dispose()` | — | Free GPU resources |
 
-### BufferAttribute — Constructor and Properties
+### BufferAttribute: Constructor and Properties
 
 ```javascript
 import * as THREE from 'three';
@@ -185,7 +185,7 @@ All accept `(radius=1, detail=0)`. Detail controls subdivision level.
 
 ---
 
-## Shape Class — 2D Path Drawing
+## Shape Class: 2D Path Drawing
 
 ```javascript
 import * as THREE from 'three';

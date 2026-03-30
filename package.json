@@ -1,0 +1,50 @@
+{
+  "name": "@openaec/three-js-claude-skill-package",
+  "version": "1.1.0",
+  "description": "24 deterministic skills for Three.js 3D web development with Claude Code. Covers WebGL, WebGPU, React Three Fiber, Drei, physics, IFC, and more.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OpenAEC-Foundation/Three.js-Claude-Skill-Package"
+  },
+  "keywords": [
+    "agent-skills",
+    "agentskills",
+    "claude-skills",
+    "threejs",
+    "three-js",
+    "webgl",
+    "webgpu",
+    "react-three-fiber",
+    "3d",
+    "aec"
+  ],
+  "agents": {
+    "skills": [
+      { "name": "threejs-agents-model-optimizer", "path": "./skills/source/threejs-agents/threejs-agents-model-optimizer" },
+      { "name": "threejs-agents-scene-builder", "path": "./skills/source/threejs-agents/threejs-agents-scene-builder" },
+      { "name": "threejs-core-math", "path": "./skills/source/threejs-core/threejs-core-math" },
+      { "name": "threejs-core-raycaster", "path": "./skills/source/threejs-core/threejs-core-raycaster" },
+      { "name": "threejs-core-renderer", "path": "./skills/source/threejs-core/threejs-core-renderer" },
+      { "name": "threejs-core-scene-graph", "path": "./skills/source/threejs-core/threejs-core-scene-graph" },
+      { "name": "threejs-errors-performance", "path": "./skills/source/threejs-errors/threejs-errors-performance" },
+      { "name": "threejs-errors-rendering", "path": "./skills/source/threejs-errors/threejs-errors-rendering" },
+      { "name": "threejs-impl-animation", "path": "./skills/source/threejs-impl/threejs-impl-animation" },
+      { "name": "threejs-impl-audio", "path": "./skills/source/threejs-impl/threejs-impl-audio" },
+      { "name": "threejs-impl-drei", "path": "./skills/source/threejs-impl/threejs-impl-drei" },
+      { "name": "threejs-impl-ifc-viewer", "path": "./skills/source/threejs-impl/threejs-impl-ifc-viewer" },
+      { "name": "threejs-impl-lighting", "path": "./skills/source/threejs-impl/threejs-impl-lighting" },
+      { "name": "threejs-impl-physics", "path": "./skills/source/threejs-impl/threejs-impl-physics" },
+      { "name": "threejs-impl-post-processing", "path": "./skills/source/threejs-impl/threejs-impl-post-processing" },
+      { "name": "threejs-impl-react-three-fiber", "path": "./skills/source/threejs-impl/threejs-impl-react-three-fiber" },
+      { "name": "threejs-impl-shadows", "path": "./skills/source/threejs-impl/threejs-impl-shadows" },
+      { "name": "threejs-impl-webgpu", "path": "./skills/source/threejs-impl/threejs-impl-webgpu" },
+      { "name": "threejs-impl-xr", "path": "./skills/source/threejs-impl/threejs-impl-xr" },
+      { "name": "threejs-syntax-controls", "path": "./skills/source/threejs-syntax/threejs-syntax-controls" },
+      { "name": "threejs-syntax-geometries", "path": "./skills/source/threejs-syntax/threejs-syntax-geometries" },
+      { "name": "threejs-syntax-loaders", "path": "./skills/source/threejs-syntax/threejs-syntax-loaders" },
+      { "name": "threejs-syntax-materials", "path": "./skills/source/threejs-syntax/threejs-syntax-materials" },
+      { "name": "threejs-syntax-shaders", "path": "./skills/source/threejs-syntax/threejs-syntax-shaders" }
+    ]
+  }
+}
